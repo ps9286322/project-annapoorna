@@ -1,0 +1,39 @@
+#one{
+    margin-top:0%;
+    padding:0%;
+    background-color: lightgray;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size:60px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#first{
+    display:inline-block;
+    text-decoration: none;
+   margin-left: 50px;
+   position: relative;
+   left:450px;
+}
+a,.dropdown-item{
+     color: gray
+}
+a:hover{
+       color: brown;
+}
+#abc{
+    height: 300px;
+    width:1000px;
+
+}
+h2{
+    position: relative;
+    left:1100px;
+    bottom:300px;
+    font-size: 30px;
+    font-family:Anatasha;
+    color:blueviolet;
+}
